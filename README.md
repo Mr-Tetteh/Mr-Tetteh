@@ -44,9 +44,7 @@ Languages and Tools:
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
+ 
   <a href="https://www.laravel.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="php" width="40" height="40"/> 
   </a>
