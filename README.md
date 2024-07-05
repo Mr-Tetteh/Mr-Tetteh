@@ -48,7 +48,7 @@ Languages and Tools:
   <a href="https://www.laravel.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="php" width="40" height="40"/> 
   </a>
-    <a href="https://www.laravel.com" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg" alt="php" width="40" height="40"/> 
   </a>
 
