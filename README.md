@@ -52,7 +52,29 @@ Languages and Tools:
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg" alt="php" width="40" height="40"/> 
   </a>
 
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuejs/vuejs-original-wordmark.svg" alt="php" width="40" height="40"/> 
+  </a>
+
+ <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+
+ <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/npm/npm-original-wordmark.svg" alt="php" width="40" height="40"/> 
+  </a>
+
+   <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+
+   <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" alt="php" width="40" height="40"/> 
+  </a>
 
 
+   <a href="https://livewire.laravel.com/docs/quickstart" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/livewire/livewire-original.svg" alt="php" width="40" height="40"/> 
+  </a>
   
 </p>
