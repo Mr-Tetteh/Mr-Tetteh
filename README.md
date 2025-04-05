@@ -1,7 +1,7 @@
 <h1>Hi there, thanks for stopping by 😉</h1>
 <p>I am a full-stack developer specializing in web development, with a passion for creating responsive, user-friendly applications that address real-world challenges. Constantly seeking to enhance my skills, I actively contribute to the open-source community and enjoy tackling projects that push me to grow and learn as a developer. You can explore some of my work on my GitHub page, and I welcome any opportunity to connect. Driven by a desire to use technology for positive change, I am excited to see where my journey as a developer will lead me.</p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Languages and Tools I Use👇</h2>
 <div>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
   <a target="_blank" href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42" /></a>
