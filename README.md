@@ -26,7 +26,7 @@
   <a target="_blank" href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
 </div>
 
-<h2>⚡️ Where to Find Me</h2>
+<h2>⚡️ Where to Find Me👇</h2>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/daniel-nii-ayitey-tetteh"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
   <a target="_blank" href="https://www.instagram.com/mr.tetteh80/"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" /></a>
